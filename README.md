@@ -21,3 +21,6 @@ soustraction = function(a,b) {
   return(a-b)
 }
 ```
+
+le script modulo est trop sexy, qqn sait qui l'a fait? 
+
