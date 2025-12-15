@@ -15,3 +15,9 @@ Lien pour le MD :
 
 color<td>#CE5937</td>
 
+
+
+
+### Division
+
+Ce script permet de faire la division entre 2 nombres a et b en faisant appel à la fonction : **division(a,b)** pour faire la division de a par b. Attention à ce que b ne soit pas nul.
