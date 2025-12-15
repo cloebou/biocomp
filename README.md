@@ -13,4 +13,4 @@ Ce dépot sert à apprendre comment fonctionne Github
 Lien pour le MD : 
 <https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
 
-<&#127803>
+&#127803
