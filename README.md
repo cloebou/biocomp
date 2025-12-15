@@ -15,3 +15,9 @@ Lien pour le MD :
 
 color<td>#CE5937</td>
 
+## Script R soustraction 
+```r
+soustraction = function(a,b) {
+  return(a-b)
+}
+```
