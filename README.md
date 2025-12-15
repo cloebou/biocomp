@@ -7,12 +7,11 @@ Ce dépot sert à apprendre comment fonctionne Github
 - liste 
 - liste 
 1. liste avec des numeros
-
+* etoile
 ⋅⋅⋅ que fait ca : un paragraph ?
 
 Lien pour le MD : 
 <https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
-
-&#127803
-
-color: #CE5937;
+<td>&#127803</td>
+<td>#CE5937</td>
+'''code'''
