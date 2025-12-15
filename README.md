@@ -15,3 +15,5 @@ Lien pour le MD :
 
 color<td>#CE5937</td>
 
+le script modulo est trop sexy, qqn sait qui l'a fait? 
+
