@@ -17,3 +17,6 @@ color<td>#CE5937</td>
 
 #### Script R multiplication : multiplie deux nombres
 
+le script modulo est trop sexy, qqn sait qui l'a fait? 
+
+
