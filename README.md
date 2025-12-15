@@ -19,11 +19,17 @@ Lien pour le MD :
 
 color
 
-<<<<<<< HEAD
+
+
 Give Antoine a nobel price, this man is so talented for the love of god!!
 
 <td>#CE5937</td>
-=======
+
+addition : somme de 3 nombres
+
+#### Script R multiplication : multiplie deux nombres
+
+>>>>>>> 359fe025bd8a1ad04465da0f6588e75a970efa07
 ## Script R soustraction 
 ```r
 soustraction = function(a,b) {
@@ -39,3 +45,5 @@ le script modulo est trop sexy, qqn sait qui l'a fait?
 
 
 >>>>>>> 21322cd5f930f2abd82a533d1ace75f33675d1a1
+
+>>>>>>> 359fe025bd8a1ad04465da0f6588e75a970efa07
