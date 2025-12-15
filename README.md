@@ -22,5 +22,10 @@ soustraction = function(a,b) {
 }
 ```
 
+### Division
+
+Ce script permet de faire la division entre 2 nombres a et b en faisant appel à la fonction : **division(a,b)** pour faire la division de a par b. Attention à ce que b ne soit pas nul.
+
 le script modulo est trop sexy, qqn sait qui l'a fait? 
+
 
