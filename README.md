@@ -15,3 +15,6 @@ Lien pour le MD :
 
 color<td>#CE5937</td>
 
+
+
+addition : somme de 3 nombres
