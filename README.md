@@ -15,9 +15,14 @@ Lien pour le MD :
 
 color<td>#CE5937</td>
 
+<<<<<<< HEAD
 
 
 
 ### Division
 
 Ce script permet de faire la division entre 2 nombres a et b en faisant appel à la fonction : **division(a,b)** pour faire la division de a par b. Attention à ce que b ne soit pas nul.
+=======
+le script modulo est trop sexy, qqn sait qui l'a fait? 
+
+>>>>>>> 6c066c8a56037eb6fd9fc480894e0f3e84de0897
