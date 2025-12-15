@@ -13,5 +13,7 @@ Ce dépot sert à apprendre comment fonctionne Github
 Lien pour le MD : 
 <https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
 <td>&#127803</td>
-<td>#CE5937</td>
+
+<td>color#CE5937</td>
 '''code'''
+'code'
