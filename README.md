@@ -4,7 +4,11 @@
 Ce dépot sert à apprendre comment fonctionne Github
 *texte en italique*
 **texte en gras**
-⋅⋅⋅⋅1. liste avec des numeros
-⋅⋅⋅⋅2. liste 2
+- liste 
+- liste 
+1. liste avec des numeros
 
-⋅⋅⋅⋅que fait ca : un paragraph ?
+⋅⋅⋅ que fait ca : un paragraph ?
+
+Lien pour le MD : 
+<https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
